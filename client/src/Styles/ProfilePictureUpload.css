@@ -1,0 +1,16 @@
+.profile-picture-upload {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .profile-picture-upload input {
+    margin: 10px 0;
+  }
+  
+  .profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
